@@ -2,7 +2,6 @@ import java.io.*;
 
 class GFG {
 	public static void main (String[] args) {
-		System.out.println("GfG!");
 		int[] arr = {1,1,2,3};
 		int diff = 1;
 		int sum = 0;
@@ -36,3 +35,5 @@ class GFG {
         return t[nums.length][sum];
 	}
 }
+//https://ide.geeksforgeeks.org/online-java-compiler/e9bc7dc0-1398-4d0c-beb2-1e0e75665857
+//output: count of subset with given given difference ! 3
